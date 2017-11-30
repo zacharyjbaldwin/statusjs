@@ -1,0 +1,24 @@
+{
+  "name": "statusjs",
+  "version": "1.0.0",
+  "description": "A small, colorful, logger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/zacharyjbaldwin/statusjs.git"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "color",
+    "chalk"
+  ],
+  "author": "Zachary J. Baldwin <zacharyjbaldwin@gmail.com> (https://www.github.com/zacharyjbaldwin)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
